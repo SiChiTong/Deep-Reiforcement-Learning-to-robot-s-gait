@@ -1,12 +1,12 @@
 # Deep-Reiforcement-Learning-to-robot-s-gait
-Walkybot project : For ROS_based robot platform in real-world
 
-## Walkybot Project : For ROS_based robot platform in real-world
+### Walkybot Project : For ROS_based robot platform in real-world
 
 All of components are ROBOTIS's products
 
-![intro](images/Walkbot_proto.JPG)
-![intro](images/Walkybot_proto_real.jpg)
+<img src="images/Walkbot_proto.JPG" width="70%">
+<img src="images/Walkybot_proto_real.jpg" width="70%">
+
 ---
 
 | PURPOSE | Used Product |
