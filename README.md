@@ -1,6 +1,13 @@
 # Deep-Reiforcement-Learning-to-robot-s-gait
 
-### Walkybot Project : For ROS_based robot platform in real-world
+**Development Env :**
+- Ubuntu 18.04
+- Tensorflow-gpu (1.10)
+- Keras
+- ROS Melodic
+
+---
+## Walkybot Project : For ROS_based robot platform in real-world
 
 All of components are ROBOTIS's products
 
